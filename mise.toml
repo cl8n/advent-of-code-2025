@@ -3,3 +3,6 @@ elixir = "1.19.4-otp-28"
 erlang = "28.2"
 gleam = "1.13.0"
 zig = "0.15.2"
+
+[env]
+_.path = "./day05/roc_nightly-linux_x86_64-2025-09-09-d73ea109"
