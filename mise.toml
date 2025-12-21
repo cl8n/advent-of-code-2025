@@ -1,7 +1,10 @@
 [tools]
+cabal = "3.16.0.0"
 elixir = "1.19.4-otp-28"
 erlang = "28.2"
+ghc = "9.12.2"
 gleam = "1.13.0"
+hls = "2.12.0.0"
 zig = "0.15.2"
 
 [env]
